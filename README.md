@@ -1,6 +1,7 @@
 # Quiz1_887342
 
 # Hello World Program in Ruby
+# ลืมวิธีในการ PUSH/ commit
 puts "Hello World!";
 US_states = 
 
